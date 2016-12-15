@@ -16,15 +16,15 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ##Instructions for project
 
-- run_analysis.R : the R-code run on the data set
+- `run_analysis.R` : the R-code run on the data set
 
-- Tidy.txt : the clean data extracted from the original data using run_analysis.R
+- `Tidy.txt` : the clean data extracted from the original data using run_analysis.R
 
-- CodeBook.md : the CodeBook reference to the variables in Tidy.txt
+- `CodeBook.md` : the CodeBook reference to the variables in Tidy.txt
 
-- README.md : the analysis of the code in run_analysis.R
+- `README.md` : the analysis of the code in run_analysis.R
 
-- analysis.html : the html version of README.md
+- `analysis.html` : the html version of README.md
 
 ##Tools used to produce this project
 
